@@ -7,10 +7,9 @@ Hey, I'm Pranav Dubey
 </h1>
 
 <!-- Dynamic Typing SVG -->
+<!-- Dynamic Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3393FF&center=true&vCenter=true&width=435&lines=B.Tech+Computer+Science+Student;Passionate+about+ML+%26+Computer+Vision;Building+Intelligent+Solutions;Formula+1+Enthusiast+✏️🏎️" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Passionate+about+ML+%26+Computer+Vision;Building+Intelligent+Solutions;Formula+1+Enthusiast+✏️🏎️" alt="Typing SVG" />
 </p>
 </div>
 
