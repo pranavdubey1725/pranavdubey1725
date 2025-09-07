@@ -5,12 +5,6 @@
 Hey, I'm Pranav Dubey
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<!-- Dynamic Typing SVG -->
-<!-- Dynamic Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Passionate+about+ML+%26+Computer+Vision;Building+Intelligent+Solutions;Formula+1+Enthusiast+✏️🏎️" alt="Typing SVG" />
-</p>
 </div>
 
 ---
@@ -73,3 +67,4 @@ I'm always open to connecting with new people. Feel free to reach out!
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
+
