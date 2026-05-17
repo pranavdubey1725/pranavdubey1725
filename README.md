@@ -1,74 +1,152 @@
-<!-- Header Section -->
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-<h1>
-Hey, I'm Pranav Dubey
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+```
+██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
+██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
+██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
+██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
+```
+
+### `CS Undergrad · AI/ML Engineer · Backend Builder`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavdubey17)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![Gmail](https://img.shields.io/badge/Email-pranavdubeyy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavdubeyy@gmail.com)
+
 </div>
 
 ---
 
-👨‍💻 **About Me**  
-I'm a Computer Science undergraduate at VIT Bhopal with a strong interest in **Data Science, Machine Learning, and Product Analytics**. I enjoy working with real-world datasets, extracting meaningful insights, and building data-driven solutions that help teams make better decisions.
+## 👨‍💻 About
 
-🌱 Currently strengthening my foundations in **data analysis, statistics, and applied machine learning**, while exploring how data is used in real product teams.  
+B.Tech CSE student at **VIT Bhopal** building things at the intersection of **AI, backend systems, and real-world data**. I care about models that actually work in production, APIs that don't fall over, and systems that explain themselves.
 
-👯 Open to collaborating on **data science and analytics projects**, especially those involving user behavior and product metrics.  
-
-⚡ Fun fact: I co-lead the **technical team of my university’s Music Club**, handling sound engineering and live event setups.
+Currently exploring: applied deep learning · product analytics · distributed backends
 
 ---
 
-🚀 **Tech Stack**
+## 🛠️ Tech Stack
 
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,java,sklearn,pandas,numpy,matplotlib,aws,git,vscode,postgres&perline=7" />
-</a>
-</p>
+**Languages**
+```
+Python · Java · SQL
+```
 
----
+**AI / ML**
+```
+PyTorch · TensorFlow · Scikit-learn · Keras
+CNNs · LSTMs · NLP · Grad-CAM · YOLOv8 · ConvNeXt
+NumPy · Pandas · Matplotlib
+```
 
-✨ **Projects**
+**Backend & APIs**
+```
+FastAPI · Spring Boot · Node.js · REST APIs
+JWT + RBAC · AES-GCM · Redis · WebSockets
+```
 
-### 📊 E-Commerce Product Metrics Analysis  
-Analyzed large-scale e-commerce event data to evaluate **user engagement, conversion funnels, and retention behavior**.  
-- Computed **DAU, MAU, and stickiness** metrics  
-- Analyzed **view → cart → purchase** conversion funnel  
-- Performed **cohort-based retention analysis**  
-- Identified checkout friction and low long-term engagement opportunities  
-**Tech:** Python, Pandas, NumPy, Matplotlib  
-[🔗 View Project Repository](https://github.com/pranavdubey1725/E-Commerce-App-Usage-Analysis)
+**Data & Storage**
+```
+PostgreSQL · SQLite · MinIO · Hugging Face Spaces
+```
 
----
-
-### 🏎️ Formula 1 Race Position Prediction  
-Built an end-to-end ML pipeline using FastF1 telemetry data to predict race finishing positions.  
-Focused on feature engineering, model training, and performance evaluation.
-
----
-
-### 🏠 House Price Prediction  
-Developed a complete regression pipeline for house price prediction, including data cleaning, feature engineering, and hyperparameter tuning.
+**DevOps & Tools**
+```
+Docker · Git · Postman · Render · Vercel
+```
 
 ---
 
-📊 **GitHub Stats**  
+## 🚀 Featured Projects
+
+### 🎥 AI Video Surveillance — Anomaly Detection
+> ResNet50 + LSTM + YOLOv8 · UCF-Crime Dataset · FastAPI · Streamlit · Docker
+
+End-to-end CCTV anomaly detection system trained on **1.37M+ frames across 1,900 videos**.
+
+- Achieved **0.803 AUC-ROC** — beats the Sultani et al. (2018) baseline of 75.41%
+- Frame-level **Grad-CAM saliency overlays** for human-interpretable anomaly reasoning
+- Async FastAPI backend with **background job queues + streaming inference**
+- Streamlit dashboard for real-time visualization and audit-ready analytics
+
+[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/pranavdubey1725)
+
+---
+
+### 🫀 Congenital Heart Defect Prediction System
+> ConvNeXt-Base · Spring Boot · FastAPI · PostgreSQL · PyTorch · Docker
+
+Dual-branch CNN for chest X-ray classification across **Normal / ASD / VSD** classes.
+
+- **82.6% accuracy · 0.83 macro F1** on a 612-image medical dataset
+- CLAHE augmentation + focal loss + SE recalibration for imbalanced data robustness
+- **0.96 VSD precision · 0.94 Normal recall**
+- 22+ REST APIs with JWT + RBAC auth, AES-GCM encryption, Redis caching, MinIO storage
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](#)
+
+---
+
+### 🎧 Customer Support Automation Platform
+> FastAPI · Groq Llama 3.3-70b · Streamlit · SQLite · Docker
+
+Enterprise-grade AI pipeline for intelligent ticket handling — **end-to-end in under 3 seconds**.
+
+- Intent classification · 5-tier urgency scoring · routing across **8 queues**
+- Contextual reply drafting via **Groq Llama 3.3-70b**
+- Decoupled NLP modules (classifier, sentiment, router, LLM drafter) with Pydantic contracts
+- Multi-role Streamlit dashboard with agent workflows + supervisor analytics
+
+[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/pranavdubey1725)
+
+---
+
+### 📊 E-Commerce Product Metrics Analysis
+> Python · Pandas · NumPy · Matplotlib
+
+Large-scale behavioral analytics on e-commerce event data.
+
+- Computed **DAU, MAU, stickiness** metrics
+- Funnel analysis: **view → cart → purchase** conversion
+- Cohort-based **retention analysis** + friction identification
+
+[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/pranavdubey1725/E-Commerce-App-Usage-Analysis)
+
+---
+
+### 🏎️ Formula 1 Race Position Prediction
+> FastF1 · Scikit-learn · Python
+
+End-to-end ML pipeline using real telemetry data to predict race finishing positions — feature engineering, model training, and performance evaluation on actual F1 data.
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Period |
+|-------------|--------|--------|
+| Introduction to Machine Learning | IIT Madras (NPTEL) | Jan – Apr 2025 |
+| Google IT Professional Certificate | Google | Dec 2025 – Mar 2026 |
+| Marketing Analytics | IIT Kharagpur (NPTEL) | Jan – Apr 2026 |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdubey1725&layout=compact&theme=dracula&hide_border=true" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdubey1725&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-📫 **Let’s Connect**
+<div align="center">
 
-<p align="center">
-<a href="https://linkedin.com/in/pranavdubey17" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:pranavdubey1725@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+*Building systems that learn, explain, and scale.*
+
+</div>
