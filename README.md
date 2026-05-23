@@ -44,7 +44,7 @@ Built an end-to-end CCTV anomaly detection system on the UCF-Crime dataset — 1
 - Async FastAPI backend with background job queues and streaming inference endpoints
 - Streamlit dashboard for real-time anomaly visualization
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)
+[![Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Pranavdubey1725/ai-video-surveillance) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)
 
 ---
 
