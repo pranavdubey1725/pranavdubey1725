@@ -6,7 +6,7 @@ CS undergrad at VIT Bhopal. I build AI systems that work in production —
 not just in notebooks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavdubey17)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/pranavdub3y/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/)
 [![Gmail](https://img.shields.io/badge/Email-pranavdubeyy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavdubeyy@gmail.com)
 
@@ -16,7 +16,7 @@ not just in notebooks.
 
 Most of what I build sits at the intersection of deep learning and backend engineering —  
 training models, wiring them into APIs, and making sure they hold up under real conditions.  
-Currently interested in computer vision, LLM pipelines, and product analytics.
+Currently going deep on computer vision, RAG pipelines, and agentic LLM systems.
 
 ---
 
@@ -24,7 +24,9 @@ Currently interested in computer vision, LLM pipelines, and product analytics.
 
 **Languages:** Python · Java · SQL
 
-**AI / ML:** PyTorch · TensorFlow · Scikit-learn · Keras · YOLOv8 · ConvNeXt · NumPy · Pandas · Matplotlib
+**AI / ML:** PyTorch · TensorFlow · Scikit-learn · Keras · YOLOv8 · ConvNeXt · CNNs · NumPy · Pandas
+
+**GenAI / LLM:** RAG · LangChain · LCEL · ChromaDB · Ollama · Hugging Face · Prompt Engineering
 
 **Backend:** FastAPI · Spring Boot · Node.js · REST APIs · JWT + RBAC · AES-GCM · Redis
 
@@ -44,11 +46,25 @@ Built an end-to-end CCTV anomaly detection system on the UCF-Crime dataset — 1
 - Async FastAPI backend with background job queues and streaming inference endpoints
 - Streamlit dashboard for real-time anomaly visualization
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Pranavdubey1725/ai-video-surveillance) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)
+[![Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Pranavdubey1725/ai-video-surveillance) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)<!-- replace with exact repo URL -->
 
 ---
 
-### Congenital Heart Defect Prediction
+### Cross-Source News Verification
+`RAG` `LangChain` `LCEL` `ChromaDB` `Ollama` `FastAPI` `React`
+
+A retrieval-augmented pipeline that checks a news claim against independent coverage and flags where sources **agree, conflict, or offer no supporting evidence** — every verdict backed by grounded citations.
+
+- Syndication-aware retrieval dedupes reprinted wire copy, so near-identical articles can't fake "independent" agreement
+- Similarity thresholds tuned so low-relevance matches are classified as *silent* (no-evidence) rather than forced into a verdict
+- Fully local inference via Ollama + ChromaDB — no external API calls
+- 225 offline tests; modular LCEL components; served through FastAPI + React
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)<!-- replace with exact repo URL -->
+
+---
+
+### Congenital Heart Defect Prediction — HeartTrace
 `ConvNeXt-Base` `PyTorch` `Spring Boot` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
 Chest X-ray classifier for detecting congenital heart defects (Normal / ASD / VSD). The medical domain meant imbalanced data and high stakes for false negatives — both shaped every design decision.
@@ -58,7 +74,7 @@ Chest X-ray classifier for detecting congenital heart defects (Normal / ASD / VS
 - **0.96 VSD precision · 0.94 Normal recall**
 - 22+ REST APIs — AES-GCM encryption, JWT + RBAC auth, Redis caching, MinIO storage
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](#) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)
+[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://chd-for-epics.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725/CHD-For-EPICS)
 
 ---
 
@@ -71,20 +87,7 @@ AI pipeline that handles the full support ticket lifecycle — from intake to dr
 - Decoupled NLP modules with Pydantic contracts, designed for plug-and-play model upgrades
 - Multi-role dashboard for agent approve/edit/reject workflows and supervisor analytics
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)
-
----
-
-### E-Commerce Product Metrics Analysis
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-Behavioral analytics on large-scale e-commerce event data — the kind of analysis that tells you where users drop off and why.
-
-- DAU / MAU / stickiness metrics
-- View → cart → purchase funnel analysis
-- Cohort-based retention and checkout friction identification
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725/E-Commerce-App-Usage-Analysis)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavdubey1725)<!-- replace with exact repo URL -->
 
 ---
 
