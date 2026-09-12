@@ -1,53 +1,102 @@
-# Pranav Dubey
+<div align="center">
 
-CS undergrad at VIT Bhopal, building AI systems that work in production — not just in notebooks.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Welcome%20to%20Pranav's%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=%3C/%3E&descSize=18&descAlignY=60" width="100%"/>
 
-Currently going deep on computer vision, RAG pipelines, and agentic LLM systems.
+<a href="https://linkedin.com/in/pranavdubey17"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/pranavdub3y/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
+<a href="mailto:pranavdubeyy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
-[LinkedIn](https://linkedin.com/in/pranavdubey17) · [LeetCode](https://leetcode.com/u/pranavdub3y/) · [Codeforces](https://codeforces.com/) · [Email](mailto:pranavdubeyy@gmail.com)
+</div>
 
----
+<br>
 
-### Stack
+## About Me
 
-**Languages** — Python, Java, SQL
-**AI / ML** — PyTorch, TensorFlow, Scikit-learn, Keras, YOLOv8, ConvNeXt, CNNs, NumPy, Pandas
-**GenAI / LLM** — RAG, LangChain, LCEL, ChromaDB, Ollama, Hugging Face, Prompt Engineering
-**Backend** — FastAPI, Spring Boot, Node.js, REST APIs, JWT + RBAC, AES-GCM, Redis
-**Infra** — Docker, PostgreSQL, SQLite, MinIO, Render, Vercel, Hugging Face Spaces
+Hi there! I'm **Pranav Dubey**, a CS undergrad at VIT Bhopal. I build AI systems that work in production — not just in notebooks. I love training models, wiring them into APIs, and making sure they hold up under real conditions.
 
----
+- 🎓 Studying Computer Science at **VIT Bhopal**
+- 🧠 Currently going deep on **Computer Vision, RAG pipelines, and Agentic LLM systems**
+- ⚙️ Interested in the intersection of **deep learning and backend engineering**
 
-### Projects
+<br>
 
-**AI Video Surveillance — Anomaly Detection**
-End-to-end CCTV anomaly detection on the UCF-Crime dataset (1.37M+ frames, 1,900 videos).
-0.803 AUC-ROC, beating the Sultani et al. 2018 baseline (75.41%). Grad-CAM overlays for interpretability, async FastAPI backend with streaming inference, Streamlit dashboard.
-[Demo](https://huggingface.co/spaces/Pranavdubey1725/ai-video-surveillance) · [Repo](https://github.com/pranavdubey1725)
-
-**Cross-Source News Verification**
-RAG pipeline that checks a news claim against independent coverage and flags agreement, conflict, or no evidence — every verdict grounded in citations.
-Syndication-aware retrieval, fully local inference via Ollama + ChromaDB, 225 offline tests.
-[Repo](https://github.com/pranavdubey1725)
-
-**HeartTrace — Congenital Heart Defect Prediction**
-Chest X-ray classifier (Normal / ASD / VSD) built for imbalanced, high-stakes medical data.
-82.6% accuracy, 0.83 macro F1, 0.96 VSD precision. 22+ REST APIs with AES-GCM encryption, JWT + RBAC, Redis caching, MinIO storage.
-[Demo](https://chd-for-epics.vercel.app) · [Repo](https://github.com/pranavdubey1725/CHD-For-EPICS)
-
-**Customer Support Automation Platform**
-Full support-ticket pipeline from intake to drafted reply, under 3s end-to-end.
-Intent classification, urgency scoring, routing across 8 queues, LLM-drafted replies, multi-role approval dashboard.
-[Repo](https://github.com/pranavdubey1725)
-
----
-
-### GitHub Stats
+## Technologies
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranavdubey1725&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,spring,nodejs,postgres,sqlite,docker,redis&theme=dark" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranavdubey1725&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+<br>
+
+## Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+**AI Video Surveillance**
+Anomaly detection on 1.37M+ CCTV frames
+`PyTorch` `YOLOv8` `Grad-CAM`
+0.803 AUC-ROC — beats 2018 baseline
+[Demo](https://huggingface.co/spaces/Pranavdubey1725/ai-video-surveillance) · [Repo](https://github.com/pranavdubey1725)
+
+</td>
+<td width="50%">
+
+**Cross-Source News Verification**
+RAG pipeline for claim verification
+`LangChain` `ChromaDB` `Ollama`
+Fully local inference, 225 offline tests
+[Repo](https://github.com/pranavdubey1725)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**HeartTrace**
+Chest X-ray congenital defect classifier
+`ConvNeXt` `Spring Boot` `PostgreSQL`
+82.6% accuracy · 0.83 macro F1
+[Demo](https://chd-for-epics.vercel.app) · [Repo](https://github.com/pranavdubey1725/CHD-For-EPICS)
+
+</td>
+<td width="50%">
+
+**Support Automation Platform**
+Ticket intake to drafted reply, <3s
+`FastAPI` `Groq Llama 3.3` `Streamlit`
+8-queue routing, multi-role dashboard
+[Repo](https://github.com/pranavdubey1725)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=pranavdubey1725&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdubey1725&theme=tokyo-night&hide_border=true" width="97%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
