@@ -10,9 +10,9 @@
 
 Hi there! I'm **Pranav Dubey**, a CS undergrad at VIT Bhopal. I build AI systems that work in production — not just in notebooks. I love training models, wiring them into APIs, and making sure they hold up under real conditions.
 
-- 🎓 Studying Computer Science at **VIT Bhopal**
-- 🧠 Currently going deep on **Computer Vision, RAG pipelines, and Agentic LLM systems**
-- ⚙️ Interested in the intersection of **deep learning and backend engineering**
+-  Studying Computer Science at **VIT Bhopal**
+-  Currently going deep on **Computer Vision, RAG pipelines, and Agentic LLM systems**
+-  Interested in the intersection of **deep learning and backend engineering**
 
 <br>
 
@@ -20,7 +20,7 @@ Hi there! I'm **Pranav Dubey**, a CS undergrad at VIT Bhopal. I build AI systems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,spring,nodejs,postgres,sqlite,docker,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,docker,redis,chromadb&theme=dark" />
 
 </div>
 
