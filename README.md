@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Welcome%20to%20Pranav's%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=%3C/%3E&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Welcome%20to%20Pranav%27s%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=%3C/%3E&descSize=18&descAlignY=60" width="100%"/>
 
 <a href="https://linkedin.com/in/pranavdubey17"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/pranavdub3y/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
