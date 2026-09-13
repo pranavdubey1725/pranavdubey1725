@@ -98,6 +98,31 @@ Ticket intake to drafted reply, <3s
 <br><br>
 
 <img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdubey1725&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=pranavdubey1725&theme=tokyonight&hide_border=true"
+  width="70%"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=pranavdubey1725&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"
+  width="95%"
+/>
+
+</div>
+
+<img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavdubey1725&theme=tokyonight"
   width="95%"
 />
