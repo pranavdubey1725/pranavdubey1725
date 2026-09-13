@@ -90,10 +90,37 @@ Ticket intake to drafted reply, <3s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=pranavdubey1725&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/pranavdubey1725">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdubey1725&theme=tokyo-night&hide_border=true" width="97%" />
+<a href="https://github.com/pranavdubey1725">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdubey1725&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/pranavdubey1725">
+  <img
+    src="https://streak-stats.demolab.com/?user=pranavdubey1725&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/pranavdubey1725">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdubey1725&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
+</a>
 
 </div>
 
