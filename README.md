@@ -99,11 +99,11 @@ Ticket intake to drafted reply, <3s
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranavdubey1725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdubey1725&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavdubey1725&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
 <br><br>
