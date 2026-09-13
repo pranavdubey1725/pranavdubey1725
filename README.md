@@ -16,13 +16,20 @@ I'm **Pranav Dubey**, a Computer Science undergrad at **VIT Bhopal** who builds 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,docker,redis&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-5A3FFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-5A3FFF?style=for-the-badge" />
 
 </div>
 
