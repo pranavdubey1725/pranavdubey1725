@@ -14,9 +14,17 @@ I'm **Pranav Dubey**, a Computer Science undergrad at **VIT Bhopal** who builds 
 
 ## Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,docker,redis,langchain&theme=dark&perline=9" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,docker,redis&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-5A3FFF?style=for-the-badge&logoColor=white" />
+
+</div>
 
 <br>
 
