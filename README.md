@@ -91,7 +91,7 @@ Ticket intake to drafted reply, <3s
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdubey1725&theme=tokyo-night&hide_border=true&area=true"
+  src="https://activity-graph.herokuapp.com/graph?username=pranavdubey1725&theme=tokyo-night&hide_border=true&area=true"
   width="95%"
 />
 
