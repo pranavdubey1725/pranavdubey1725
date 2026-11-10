@@ -28,6 +28,7 @@ I'm **Pranav Dubey**, a Computer Science undergrad at **VIT Bhopal** who builds 
 <br>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
 
