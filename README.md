@@ -29,7 +29,7 @@ I'm **Pranav Dubey**, a Computer Science undergrad at **VIT Bhopal** who builds 
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-5A3FFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
 
 </div>
 
@@ -54,7 +54,7 @@ Anomaly detection on 1.37M+ CCTV frames
 
 **Cross-Source News Verification**
 RAG pipeline for claim verification
-`LangChain` `ChromaDB` `Ollama`
+`LangChain` `Qdrant` `Ollama`
 Fully local inference, 225 offline tests
 [Repo](https://github.com/pranavdubey1725)
 
