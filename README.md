@@ -52,8 +52,9 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux" /><br>
+  <img height="48" src="./icons/ai-tools.svg" alt="LangChain, LangGraph, Ollama, Qdrant, YOLOv8" /><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,postman,vscode" /><br>
 </div>
 
 <br>
@@ -63,12 +64,12 @@
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
     
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FCHD-For-EPICS&show_owner=true&theme=apprentice)](https://github.com/pranavdubey1725/CHD-For-EPICS)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FNewsCheck&show_owner=true&theme=ayu-mirage)](https://github.com/pranavdubey1725/NewsCheck)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FEmail-Agent-System&show_owner=true&theme=material-palenight)](https://github.com/pranavdubey1725/Email-Agent-System)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FAI-VIDEO-SURVEILLANCE-ANOMALY-DETECTION-SYSTEM&show_owner=true&theme=nord)](https://github.com/pranavdubey1725/AI-VIDEO-SURVEILLANCE-ANOMALY-DETECTION-SYSTEM)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FAutriage&show_owner=true&theme=dracula)](https://github.com/pranavdubey1725/Autriage)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FF1-Race-Prediction&show_owner=true&theme=discord_old_blurple)](https://github.com/pranavdubey1725/F1-Race-Prediction)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FNewsCheck&show_owner=true&theme=apprentice)](https://github.com/pranavdubey1725/NewsCheck)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FAI-VIDEO-SURVEILLANCE-ANOMALY-DETECTION-SYSTEM&show_owner=true&theme=ayu-mirage)](https://github.com/pranavdubey1725/AI-VIDEO-SURVEILLANCE-ANOMALY-DETECTION-SYSTEM)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FF1-Race-Prediction&show_owner=true&theme=material-palenight)](https://github.com/pranavdubey1725/F1-Race-Prediction)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FCHD-For-EPICS&show_owner=true&theme=nord)](https://github.com/pranavdubey1725/CHD-For-EPICS)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FEmail-Agent-System&show_owner=true&theme=dracula)](https://github.com/pranavdubey1725/Email-Agent-System)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pranavdubey1725&repo=pranavdubey1725%2FAutriage&show_owner=true&theme=discord_old_blurple)](https://github.com/pranavdubey1725/Autriage)
 
   </p>
 </div>
@@ -119,10 +120,10 @@
 
 
 <!-- See more of me -->
-<h3 align="center">👀 See More of Me</h3>
+<h3 align="center">See More of Me</h3>
 <p align="center">
   <a href="https://pranavdubey.vercel.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-pranavdubey.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="./icons/portfolio-button.svg" height="44" alt="Portfolio" />
   </a>
 </p>
 
